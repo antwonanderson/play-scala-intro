@@ -1,0 +1,7 @@
+New log file opened at Fri Jun 03 21:21:34 EDT 2016 by 6384@ASUS-Laptop
+Taking next connection to: 49555
+New client attempting to connect on port: 49556-49555
+  Address = /172.16.1.34:49555
+This client on port 49556 has uuid 666e9967-3f9f-4cbf-a054-8f645d98d7b3 configName play-fork-run humanReadableName Play Fork Run protocolVersion 1 featureTags Vector()
+Connected Clients: play-fork-run-666e9967-3f9f-4cbf-a054-8f645d98d7b3
+Taking next connection to: 49555
